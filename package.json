@@ -13,7 +13,11 @@
     "format:check": "prettier --check ."
   },
   "dependencies": {
+    "@faker-js/faker": "^9.0.3",
+    "@vueuse/firebase": "^11.1.0",
+    "firebase": "^10.14.0",
     "vue": "^3.2.37",
+    "vue-basic-template": "file:",
     "vue-router": "^4.1.5"
   },
   "devDependencies": {
